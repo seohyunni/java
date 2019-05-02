@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;StringTokenizer.java&apos; to &apos;lsh/src/kr.hs.emirim.practice&apos;&#x0D;&#x0A;- Original project: &apos;0403_StringBuffer&apos;&#x0D;&#x0A;- Destination element: &apos;lsh/src/kr.hs.emirim.practice&apos;&#x0D;&#x0A;- Original element: &apos;StringTokenizer.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=lsh/src&lt;kr.hs.emirim.practice" element1="/src&lt;{StringTokenizer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1554252854902" units="1" version="1.0"/>
+</session>
